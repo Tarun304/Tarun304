@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3460,100:00F5D4&height=200&section=header&text=Tarun%20Kumar%20Behera&fontSize=46&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20MLOps&descAlignY=60&descSize=16" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3460,100:00F5D4&height=120&section=header" alt="Header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1500&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Tarun+Kumar+Behera" alt="Tarun Kumar Behera" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&color=8B949E&center=true&vCenter=true&repeat=false&width=700&height=30&lines=Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Generative+AI+%E2%80%A2+MLOps" alt="Data Science, Machine Learning, Deep Learning, Generative AI, MLOps" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Science+%26+Statistical+Modelling;Machine+Learning+%26+Deep+Learning;NLP+%26+Computer+Vision;Generative+AI+%26+LLM+Systems;MLOps+%26+Model+Deployment" alt="Typing SVG" />
